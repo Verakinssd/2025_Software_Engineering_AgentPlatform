@@ -1,0 +1,1 @@
+pip install openai langchain rank_bm25 nltk tiktoken jieba fastapi uvicorn

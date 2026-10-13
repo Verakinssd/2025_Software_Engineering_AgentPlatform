@@ -1,0 +1,11 @@
+.idea
+backend/go.sum
+frontend/pnpm-lock.yaml
+node_modules
+uploads/
+backend/agent_platform.exe
+frontend/typed-router.d.ts
+backend/python_debug.log
+# py_mini_service/dl/__pycache__
+# py_mini_service\code_sandbox\sandbox\__pycache__
+*\__pycache__
